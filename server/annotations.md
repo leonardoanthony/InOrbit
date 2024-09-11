@@ -12,4 +12,7 @@ drizzle
 
 .env
 
-35:45
+npx drizze-kit generate
+@paralleldrive/cuid2
+
+configuração seed
